@@ -15,5 +15,5 @@ elif chose_operation == 2:
     minimum = min(first_num, second_num, third_num)
     print(minimum)
 else:
-    simple_average = (first_num + second_num + third_num) / 2
+    simple_average = (first_num + second_num + third_num) / 3
     print(simple_average)
